@@ -9,7 +9,7 @@
 * ❤️ I love building custom PCs
 
 
-<p align = "center>
+<p align = "left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=limevan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=limevan&theme=tokyonight&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limevan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
