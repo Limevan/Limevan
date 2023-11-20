@@ -1,3 +1,12 @@
+ <style>
+ .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  </style>
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hello!👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
@@ -9,11 +18,11 @@
 * ❤️ I love building custom PCs
 
 
-<p align = "left">
+<div class = "container">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=limevan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=limevan&theme=tokyonight&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limevan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
-</p>
+</div>
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
