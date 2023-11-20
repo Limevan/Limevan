@@ -1,17 +1,7 @@
- <style>
- .container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  </style>
-
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hello!👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-###
+
 * 🔭 I’m studying Electrical Engineering at UBC
 * 🌱 I’m currently learning UI/UX Design in Figma
 * 💬 Ask me about Front-End Development
@@ -19,9 +9,8 @@
 
 
 <div class = "container">
-<img height="100em" src="https://github-readme-stats.vercel.app/api?username=limevan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-<img height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=limevan&theme=tokyonight&hide_border=true" />
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limevan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=limevan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limevan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 
