@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?text=Hello!👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
+<p align = "center">
 <img height = "100em" src="https://media.giphy.com/media/Bl91NhNLaZvJ4kpTKk/giphy.gif" />
+</p>
 
 ### Hi, my name is Evan!
 * 🔭 I’m studying Electrical Engineering at UBC
