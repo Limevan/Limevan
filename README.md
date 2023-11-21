@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?text=Hello!👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
+<img height="180em" src=https://media.giphy.com/media/Bl91NhNLaZvJ4kpTKk/giphy.gif" />
+
 ### Hi, my name is Evan!
 * 🔭 I’m studying Electrical Engineering at UBC
 * 🌱 I’m currently learning UI/UX Design in Figma
